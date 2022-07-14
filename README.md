@@ -7,7 +7,10 @@
    - 솔직하게 작성한다.
 
 
-  ---
+---
 
-  ### Markdown 학습
-    - 제목 표현하기
+### Markdown 학습
+   - 제목 표현하기
+
+### Commit
+   - Remote Repository 연결하기
